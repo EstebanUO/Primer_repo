@@ -1,0 +1,4 @@
+Nombre: Esteban Urrego Oviedo
+edad: 18
+ciudad: Armenia
+Color favorito: Negro y rojo
